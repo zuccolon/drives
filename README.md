@@ -8,12 +8,10 @@ I have started my first project on default PHP, you can continue but the project
 In maps table on the database, you can create the relations for example you have to insert:
 
 ~~~~~
-A B
-B A
-B C
-C B
-C D
-D C
+New York - London
+London - New York
+London - Zurich
+Zurich - London
 ~~~~~
 And so on...
 
