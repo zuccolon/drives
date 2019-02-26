@@ -21,6 +21,9 @@ And so on...
 ### Homepage
 ![Alt text](https://raw.githubusercontent.com/zuccolon/drives/master/screenshots/home.png "Home")
 
+### Ride
+![Alt text](https://raw.githubusercontent.com/zuccolon/drives/master/screenshots/ride_example.png "Ride")
+
 ### Login
 ![Alt text](https://raw.githubusercontent.com/zuccolon/drives/master/screenshots/login.png "Login")
 
