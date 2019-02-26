@@ -1,0 +1,17 @@
+{
+  "name": "Drivesnow Progressive Web App",
+  "short_name": "Drivesnow",
+  "description": "Demo for progressive web app with push notifications, background sync etc.",
+  "start_url": "index.php",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f5",
+  "theme_color": "#29434d",
+  "icons": [
+    {
+      "src": "img/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+  ],
+}
