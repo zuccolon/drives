@@ -1,6 +1,22 @@
 # Drives
 Car Sharing made easy
 
+## Description
+I have started my first project on default PHP, you can continue but the project still work.'
+
+## Edit locations
+In maps table on the database, you can create the relations for example you have to insert:
+
+~~~~~
+A B
+B A
+B C
+C B
+C D
+D C
+~~~~~
+And so on...
+
 ## Screenshots
 ### Homepage
 ![Alt text](https://raw.githubusercontent.com/zuccolon/drives/master/screenshots/home.png "Home")
